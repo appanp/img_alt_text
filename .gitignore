@@ -1,0 +1,8 @@
+temp-*/
+temp_*/
+.DS_Store
+further_reading/
+*/.git/
+*/videos
+*/code_samples
+EdX_HarvardX_TinyML/hw_specs/
