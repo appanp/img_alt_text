@@ -1,0 +1,1 @@
+Image has two columns with heading labeled "A" and "B". Under "A" are the elements: "a", "b", "c", "d", and "e". Under "B" are the elements: "1", "2", "3", and "4". There are lines with arrows drawn or mapped from the items in A to the items in B.  "a" is mapped to "1", "b" is mapped to "3", "c" is mapped to "4", "d" is mapped to "2", and  "e" is mapped to "3".
